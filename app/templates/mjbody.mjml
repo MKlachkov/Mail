@@ -1,0 +1,41 @@
+ <mj-body width="600px">
+    <mj-section>
+      <mj-column>
+        <mj-image src="Header.png"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding="25px" font-size="16px" line-height="25px" font-weight="400" color="#525F7F">Hi Chuck, welcome to our team. Great to have you on board</mj-text>
+        <mj-text padding='0 25px 25px 25px' color="#1C1E23" font-size='30px' line-height='36px' font-weight='400'> 1. Verify your account </mj-text>
+        <mj-text padding='0 25px 16px 25px' color="#525F7F" font-size='16px' line-height='25px' font-weight='400'> To ensure you’re legimate and not some fake person, please verify your account by clicking the button below. </mj-text>
+        <mj-button padding="0 0 25px 25px" href="#" width='245px' height="52px" align='left' padding='16px' background-color="#489DFF" border-radius='7px' font-size='16px' line-height='20px' font-weight='600'> YES, VERIFY ME </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-family='Poppins' padding='0 25px 25px 25px' color="#1C1E23" font-size='30px' line-height='36px' font-weight='400'> 2. Complete your profile </mj-text>
+        <mj-text font-family='Poppins' padding='0 25px 16px 25px' color="#525F7F" font-size='16px' line-height='25px' font-weight='400'> With your account confirmed, it’s time to complete your profile. We’ve found that adding a profile photo and other information incrases your chances of connecting with other collegues. </mj-text>
+        <mj-button font-family='Poppins' padding="0 0 25px 25px" href="#" width='245px' height="52px" align='left' padding='16px' color="#489DFF" border-radius='7px' background-color='none' border="2px solid #489DFF" font-size='16px' line-height='20px' font-weight='600'> COMPLETE PROFILE </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-family='Poppins' padding='0 25px 25px 25px' color="#1C1E23" font-size='30px' line-height='36px' font-weight='400'> 3. Start exploring </mj-text>
+        <mj-text font-family='Poppins' padding='0 25px 16px 25px' color="#525F7F" font-size='16px' line-height='25px' font-weight='400'> Now you are ready. Good luck at your journey. </mj-text>
+        <mj-button font-family='Poppins' padding="0 0 25px 25px" href="#" width='245px' height="52px" align='left' padding='16px' color="#489DFF" border-radius='7px' background-color='none' border="2px solid #489DFF" font-size='16px' line-height='20px' font-weight='600'> BROWSE PLUGINS </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text font-family='Poppins' align="center" color="#525F7F;" padding="25px 25px 15px 25px"> © DUGIMAIL. All rights reserved. </mj-text>
+        <mj-text font-family='Poppins' padding="25px 25px 15px 25px" align="center" color="#525F7F;"> If you have any questions please contact us <a class='mail' href="sabrihakuli@outlook.com ">sabrihakuli@outlook.com </a>
+        </mj-text>
+        <mj-social font-family='Poppins' width="130px" align="center">
+          <mj-social-element name="facebook" href="https://mjml.io/"> Facebook </mj-social-element>
+          <mj-social-element name="google" href="https://mjml.io/"> Google </mj-social-element>
+          <mj-social-element name="twitter" href="https://mjml.io/"> Twitter </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>

@@ -1,0 +1,5 @@
+ <mj-head>
+    <mj-title>DUGIMAIL</mj-title>
+    <mj-preview>DUGIMAIL</mj-preview>
+    <mj-style> @import url('https://fonts.cdnfonts.com/css/poppins'); .mail{ text-decoration:none; color: #489DFF; font-family: 'Poppins'; font-style: normal; font-weight: 400; font-size: 12px; line-height: 20px; } </mj-style>
+  </mj-head>
